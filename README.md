@@ -34,13 +34,14 @@ Dr. Paul A. Gagniuc
 
 [![](https://github.com/Gagniuc/Algorithms-for-Cyber-Defense/blob/main/Special_Issue.png)](https://github.com/Gagniuc/Algorithms-for-Cyber-Defense/blob/main/Special_Issue.png)
 
-# Message from the Editor
+## Message from the Editor
 
 Dear Colleagues,
 
 The aim of this Special Issue is to explore the full spectrum of algorithms used in modern cyber defense. We welcome both theoretical and applied contributions in areas such as encryption and decryption methods, authentication schemes, secure key exchange, anomaly detection, static analysis, intrusion detection, reverse engineering of malicious code, adversarial learning, and security-aware AI models. We encourage submissions that bridge formal algorithm design with practical implementations in security-critical systems, ranging from embedded devices to large-scale infrastructure. This Issue serves as a platform for engineers, data scientists, and security researchers to share breakthroughs that redefine digital defense.
 
 Dr. Paul A. Gagniuc
+
 Guest Editor
 
 
