@@ -1,2 +1,44 @@
 # Algorithms-for-Cyber-Defense
-Special issue
+
+📢 **Special Issue Announcement**  
+We invite contributions to the *Special Issue on "Algorithms for Cyber Defense: From Cryptography to Behavioral Analysis"* published in the journal [Algorithms (MDPI)](https://www.mdpi.com/journal/algorithms).  
+
+This Special Issue explores the **full spectrum of algorithms in modern cyber defense**, including (but not limited to):
+- Encryption & decryption methods  
+- Authentication schemes & secure key exchange  
+- Anomaly & intrusion detection  
+- Static analysis & reverse engineering of malicious code  
+- Adversarial machine learning  
+- Security-aware AI models  
+
+The goal is to bridge **formal algorithm design** with **practical implementations**, covering everything from embedded devices to large-scale critical infrastructure.  
+
+📝 **Deadline for manuscript submissions:** **31 July 2026**  
+
+---
+
+## Useful Links
+- [Special Issue Information](https://www.mdpi.com/si/250454)  
+- [Special Issue Flyer (PDF)](https://www.mdpi.com/journal/algorithms/special_issue_flyer_pdf_v2/87X8E44D43)  
+- [Submission Form](https://susy.mdpi.com/user/manuscripts/upload/?journal=algorithms)  
+- [Instructions for Authors](https://www.mdpi.com/journal/algorithms/instructions)  
+
+---
+
+👤 **Guest Editor:**  
+Dr. Paul A. Gagniuc  
+- Faculty of Engineering in Foreign Languages, National University of Science and Technology POLITEHNICA Bucharest, Romania  
+- Military Technical Academy *"Ferdinand I"*, Bucharest, Romania  
+
+# Message from the Editor
+
+Dear Colleagues,
+
+The aim of this Special Issue is to explore the full spectrum of algorithms used in modern cyber defense. We welcome both theoretical and applied contributions in areas such as encryption and decryption methods, authentication schemes, secure key exchange, anomaly detection, static analysis, intrusion detection, reverse engineering of malicious code, adversarial learning, and security-aware AI models. We encourage submissions that bridge formal algorithm design with practical implementations in security-critical systems, ranging from embedded devices to large-scale infrastructure. This Issue serves as a platform for engineers, data scientists, and security researchers to share breakthroughs that redefine digital defense.
+
+Dr. Paul A. Gagniuc
+Guest Editor
+
+
+www.mdpi.com/journal/algorithms/special_issues/87X8E44D43
+
