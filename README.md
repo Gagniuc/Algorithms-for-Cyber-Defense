@@ -1,4 +1,4 @@
-# Algorithms-for-Cyber-Defense
+# Algorithms for Cyber Defense
 
 📢 **Special Issue Announcement**  
 We invite contributions to the *Special Issue on "Algorithms for Cyber Defense: From Cryptography to Behavioral Analysis"* published in the journal [Algorithms (MDPI)](https://www.mdpi.com/journal/algorithms).  
