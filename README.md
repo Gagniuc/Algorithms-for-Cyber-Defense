@@ -44,6 +44,12 @@ Dr. Paul A. Gagniuc
 
 Guest Editor
 
+<a href="www.mdpi.com/journal/algorithms/special_issues/87X8E44D43">
+  <kbd>
+    <img src="https://github.com/Gagniuc/Algorithms-for-Cyber-Defense/blob/main/banner.png" alt="Special Issue | Algorithms for Cyber Defense">
+  </kbd>
+</a>
 
-www.mdpi.com/journal/algorithms/special_issues/87X8E44D43
+
+
 
