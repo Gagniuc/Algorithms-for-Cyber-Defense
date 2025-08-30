@@ -1,9 +1,7 @@
 # Algorithms for Cyber Defense
 
-📢 **Special Issue Announcement**  
-We invite contributions to the *Special Issue on "Algorithms for Cyber Defense: From Cryptography to Behavioral Analysis"* published in the journal [Algorithms](https://www.mdpi.com/journal/algorithms).  
-
-This Special Issue explores the **full spectrum of algorithms in modern cyber defense**, including (but not limited to):
+**Special Issue Announcement**  
+We invite contributions to the *Special Issue on "Algorithms for Cyber Defense: From Cryptography to Behavioral Analysis"* published in the journal [Algorithms](https://www.mdpi.com/journal/algorithms). This Special Issue explores the **full spectrum of algorithms in modern cyber defense**, including (but not limited to):
 - Encryption & decryption methods  
 - Authentication schemes & secure key exchange  
 - Anomaly & intrusion detection  
@@ -13,7 +11,7 @@ This Special Issue explores the **full spectrum of algorithms in modern cyber de
 
 The goal is to bridge **formal algorithm design** with **practical implementations**, covering everything from embedded devices to large-scale critical infrastructure.  
 
-📝 **Deadline for manuscript submissions:** **31 July 2026**  
+**Deadline for manuscript submissions:** **31 July 2026**  
 
 ---
 
@@ -25,7 +23,8 @@ The goal is to bridge **formal algorithm design** with **practical implementatio
 
 ---
 
-👤 **Guest Editor:**  
+**Guest Editor:** 
+
 Dr. Paul A. Gagniuc  
 - Faculty of Engineering in Foreign Languages, National University of Science and Technology POLITEHNICA Bucharest, Romania  
 - Military Technical Academy *"Ferdinand I"*, Bucharest, Romania  
