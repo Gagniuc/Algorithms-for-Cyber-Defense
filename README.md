@@ -22,6 +22,8 @@ The goal is to bridge **formal algorithm design** with **practical implementatio
 
 ---
 
+In addition to original research articles, review papers are also welcome in this Special Issue, and in fact, they are highly encouraged. The academic field of cyber security is still in its infancy, only just beginning to open its eyes. The field is so young that authors often find themselves compelled to step outside traditional academic norms, citing online resources and web-links instead of well-established literature (something that, from a classical perspective, can be considered almost a blasphemy). This situation highlights the crucial importance of review articles: they not only provide structure and clarity in a rapidly evolving academic domain but are also bound to become highly cited references in the future.
+
 **Guest Editor:** 
 
 Dr. Paul A. Gagniuc  
